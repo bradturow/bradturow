@@ -1,16 +1,16 @@
-## Hi there 👋
+# Brad Turow
 
-<!--
-**bradturow/bradturow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied mathematics researcher focused on geometric and topological methods for high-dimensional data analysis, scientific computing, and computational modeling.
 
-Here are some ideas to get you started:
+Recent work includes:
+- geometric structure discovery in high-dimensional datasets
+- computational pipelines for computer vision and imaging data
+- interactive mathematical visualization systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### circle_bundles
+Python toolkit for detecting, classifying, coordinatizing, and visualizing geometric structure in high-dimensional data.
+
+Documentation:
+https://circle-bundles.readthedocs.io
